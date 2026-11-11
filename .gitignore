@@ -2,7 +2,12 @@
 /results/
 /checkpoints/
 /wandb/
-/Arxiv/
+/Arxiv/*
+!/Arxiv/Figs/
+/Arxiv/Figs/*
+!/Arxiv/Figs/architecture.png
+!/Arxiv/Figs/architecture_lite.png
+!/Arxiv/Figs/visual_comparison.png
 /.vscode/
 /.venv/
 /.pytest_cache/

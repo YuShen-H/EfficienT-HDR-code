@@ -15,7 +15,6 @@ from utils.utils import AverageMeter, calculate_ssim, range_compressor, save_hdr
 DEFAULT_CHECKPOINTS = {
     'main': 'checkpoints/V11_1/best_checkpoint.pth',
     'lite': 'checkpoints/V10-3/best_checkpoint.pth',
-    'v9': 'checkpoints/V9-4/best_checkpoint.pth',
 }
 
 
